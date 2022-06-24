@@ -1,0 +1,37 @@
+
+body{margin: 0;
+     padding: 0;
+     background-image: url(./images/jaroslaw-kwoczala-jLssTd4ngFA-unsplash.jpg);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     text-align: center;
+     display: block;
+     color:yellow;
+     }
+ol{list-style:decimal-leading-zero;
+   list-style-position: inside;}    
+input{margin: 10px auto;
+      background-color: black;
+      color: yellow;
+    font-size: larger;}
+h2{color:black}      
+#contato{background-color: rgba(rgb(17, 16, 16));}
+#whatsImage{width:20px;
+        aspect-ratio: attr(553)/attr(135);
+    }
+    #emailImage{width:20px;
+        aspect-ratio: attr(553)/attr(135);
+    }   
+    #whats a{
+        text-decoration: none;
+        color:black;
+        text-align: center;
+    
+    }
+    #mail a{
+        text-decoration: none;
+        color: black;
+        text-align: center;
+    }
+  
